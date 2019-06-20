@@ -1,0 +1,271 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:1:1-32:12
+MERGED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:1:1-32:12
+MERGED from [:react-native-local-notifications] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-local-notifications/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-fs] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-fs/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-image-picker] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-vector-icons] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-sqlite-storage] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-sqlite-storage/src/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.9] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/8b4c8098ddf1d5a207c2fcdb6001ccba/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/4dcaa983b73817fe00832e2bd730dda9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/2064a36624aac810e28258b8826b1456/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/fd3b6b8cf7181ed4fa21bd762b35b6f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/01ebce976badbdb36c8560cd93f1a47c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/7c7fd175863974cee861838105158690/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/0cf28c069edae9bdffbbcbe67ed39d42/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/1f36d7bb2dcb0c43c2cbf3bfd95e4ca0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/8581b82d6fe156e97ce3fdd7da6b3636/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/5baddf4ba33cdbfe758a042c559acfdc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/51dd757e5ceb297041be3e7169f60923/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/6d3b05edfc48bff9b2662b6ef8d1fe06/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/3a506a805eee9749f246cf3158176fd3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/7f7f6e611ad4748b996b12315c0e7fa8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/0ecd060eea15aff417e4919b8abcf5d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/91a1220e23965f5e5364f3d8a5617254/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/d79113ef1c07669560b8a9143e15bc3d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/c607ddcf30c338629dbb2124eb3d7e9f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/85149a3ea29da2e985ded3ea6697ffb2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/c3d17a89347b9d95d1d6c30d63f96509/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/cbd2f6d7f01b2b0f6686a1c304a5ea62/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/07de87d80e10adf0c133f0787dd03ff8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/98b4732e3089c2c1c8514e04bd15936c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/c3c4c8b835435f188341f4c477eecb97/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/9e66cf2bd7f2755911c253ec262fe0d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/66375dea0f2302ba636528207c2ec5c1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/3ee3b9f11dbcd11e6e22c78b493f53a7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/df87393c338bbd6375f008b1c77e1ad7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/bc9a217ad1f9144051d0657e11a9bdb9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/13e508e0e6a61efedb17434ad7901967/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/397df6a2faf740226e3faa1332bc4fdd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/6fddbf2121cf149c1dd724b470fc0395/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/5a9454498a8a2832ae88bcc0799ddf50/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/fc4066e91aac4eec2d06e1f35237c121/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/6719d32c993cde83870d69ee6e0e529f/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/fb65d88711d9ba7513709d8ceb451d48/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:2:3-33
+		INJECTED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:2:3-33
+		INJECTED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:1:1-32:12
+		INJECTED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:1:1-32:12
+		INJECTED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:6:5-81
+MERGED from [:react-native-fs] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-fs/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:react-native-fs] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-fs/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:8:5-30:19
+MERGED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:8:5-30:19
+MERGED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:8:5-30:19
+MERGED from [:react-native-image-picker] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.59.9] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/8b4c8098ddf1d5a207c2fcdb6001ccba/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.9] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/8b4c8098ddf1d5a207c2fcdb6001ccba/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/c607ddcf30c338629dbb2124eb3d7e9f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/c607ddcf30c338629dbb2124eb3d7e9f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/85149a3ea29da2e985ded3ea6697ffb2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/85149a3ea29da2e985ded3ea6697ffb2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/6719d32c993cde83870d69ee6e0e529f/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/6719d32c993cde83870d69ee6e0e529f/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/c607ddcf30c338629dbb2124eb3d7e9f/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:10:7-39
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:10:7-39
+	tools:ignore
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:12:7-52
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:12:7-52
+	tools:targetApi
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:11:7-41
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:13:7-34
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:13:7-34
+	android:theme
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:14:7-38
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:14:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:9:7-38
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:9:7-38
+activity#com.birthdayreminder.MainActivity
+ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:15:7-24:18
+	android:label
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:17:9-41
+	android:windowSoftInputMode
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:19:9-51
+	android:configChanges
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:18:9-79
+	android:name
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:16:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:22:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:25:7-84
+	android:name
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:25:17-81
+receiver#com.github.wumke.RNLocalNotifications.AlarmReceiver
+ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:26:7-29:18
+	android:process
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:26:17-42
+	android:exported
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:28:9-32
+	android:name
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml:27:9-75
+uses-sdk
+INJECTED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-local-notifications] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-local-notifications/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-local-notifications] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-local-notifications/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fs] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-fs/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fs] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-fs/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sqlite-storage] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-sqlite-storage/src/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sqlite-storage] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-sqlite-storage/src/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/8b4c8098ddf1d5a207c2fcdb6001ccba/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/8b4c8098ddf1d5a207c2fcdb6001ccba/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/4dcaa983b73817fe00832e2bd730dda9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/4dcaa983b73817fe00832e2bd730dda9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/2064a36624aac810e28258b8826b1456/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/2064a36624aac810e28258b8826b1456/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/fd3b6b8cf7181ed4fa21bd762b35b6f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/fd3b6b8cf7181ed4fa21bd762b35b6f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/01ebce976badbdb36c8560cd93f1a47c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/01ebce976badbdb36c8560cd93f1a47c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/7c7fd175863974cee861838105158690/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/7c7fd175863974cee861838105158690/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/0cf28c069edae9bdffbbcbe67ed39d42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/0cf28c069edae9bdffbbcbe67ed39d42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/1f36d7bb2dcb0c43c2cbf3bfd95e4ca0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/1f36d7bb2dcb0c43c2cbf3bfd95e4ca0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/8581b82d6fe156e97ce3fdd7da6b3636/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/8581b82d6fe156e97ce3fdd7da6b3636/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/5baddf4ba33cdbfe758a042c559acfdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/5baddf4ba33cdbfe758a042c559acfdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/51dd757e5ceb297041be3e7169f60923/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/51dd757e5ceb297041be3e7169f60923/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/6d3b05edfc48bff9b2662b6ef8d1fe06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/6d3b05edfc48bff9b2662b6ef8d1fe06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/3a506a805eee9749f246cf3158176fd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/3a506a805eee9749f246cf3158176fd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/7f7f6e611ad4748b996b12315c0e7fa8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/7f7f6e611ad4748b996b12315c0e7fa8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/0ecd060eea15aff417e4919b8abcf5d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/0ecd060eea15aff417e4919b8abcf5d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/91a1220e23965f5e5364f3d8a5617254/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/91a1220e23965f5e5364f3d8a5617254/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/d79113ef1c07669560b8a9143e15bc3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/d79113ef1c07669560b8a9143e15bc3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/c607ddcf30c338629dbb2124eb3d7e9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/c607ddcf30c338629dbb2124eb3d7e9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/85149a3ea29da2e985ded3ea6697ffb2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/85149a3ea29da2e985ded3ea6697ffb2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/c3d17a89347b9d95d1d6c30d63f96509/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/c3d17a89347b9d95d1d6c30d63f96509/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/cbd2f6d7f01b2b0f6686a1c304a5ea62/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/cbd2f6d7f01b2b0f6686a1c304a5ea62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/07de87d80e10adf0c133f0787dd03ff8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/07de87d80e10adf0c133f0787dd03ff8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/98b4732e3089c2c1c8514e04bd15936c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/98b4732e3089c2c1c8514e04bd15936c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/c3c4c8b835435f188341f4c477eecb97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/c3c4c8b835435f188341f4c477eecb97/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/9e66cf2bd7f2755911c253ec262fe0d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/9e66cf2bd7f2755911c253ec262fe0d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/66375dea0f2302ba636528207c2ec5c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/66375dea0f2302ba636528207c2ec5c1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/3ee3b9f11dbcd11e6e22c78b493f53a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/3ee3b9f11dbcd11e6e22c78b493f53a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/df87393c338bbd6375f008b1c77e1ad7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/df87393c338bbd6375f008b1c77e1ad7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/bc9a217ad1f9144051d0657e11a9bdb9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/bc9a217ad1f9144051d0657e11a9bdb9/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/13e508e0e6a61efedb17434ad7901967/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/13e508e0e6a61efedb17434ad7901967/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/397df6a2faf740226e3faa1332bc4fdd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/397df6a2faf740226e3faa1332bc4fdd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/6fddbf2121cf149c1dd724b470fc0395/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/6fddbf2121cf149c1dd724b470fc0395/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/5a9454498a8a2832ae88bcc0799ddf50/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/5a9454498a8a2832ae88bcc0799ddf50/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/fc4066e91aac4eec2d06e1f35237c121/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/fc4066e91aac4eec2d06e1f35237c121/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/6719d32c993cde83870d69ee6e0e529f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/6719d32c993cde83870d69ee6e0e529f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/fb65d88711d9ba7513709d8ceb451d48/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/pritamsankadiya/.gradle/caches/transforms-2/files-2.1/fb65d88711d9ba7513709d8ceb451d48/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/android/app/src/debug/AndroidManifest.xml:5:22-75
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [:react-native-image-picker] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /home/pritamsankadiya/Desktop/testMayank/BirthdayReminder/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
